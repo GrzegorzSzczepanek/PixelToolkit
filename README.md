@@ -35,7 +35,7 @@ Clone the repository and navigate to the project directory:
 
 Run the main script to launch the Pixel Toolkit:
 
-`python main.py`
+`./PixelToolkit.py`
 
 
 ## Modules
